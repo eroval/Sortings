@@ -1,0 +1,27 @@
+﻿  Source.cpp
+D:\Coding\Tests\Sortings\Sortings\Source.cpp(750,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Coding\Tests\Sortings\Sortings\Source.cpp(795,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Coding\Tests\Sortings\Sortings\Source.cpp(1072,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Coding\Tests\Sortings\Sortings\Source.cpp(1069,118): warning C4101: 'tmp': unreferenced local variable
+D:\Coding\Tests\Sortings\Sortings\Source.cpp(1123,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Coding\Tests\Sortings\Sortings\Source.cpp(1120,118): warning C4101: 'tmp': unreferenced local variable
+D:\Coding\Tests\Sortings\Sortings\Source.cpp(1230,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Coding\Tests\Sortings\Sortings\Source.cpp(1617,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Coding\Tests\Sortings\Sortings\Source.cpp(1620,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Coding\Tests\Sortings\Sortings\Source.cpp(2221,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Coding\Tests\Sortings\Sortings\Source.cpp(2222,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Coding\Tests\Sortings\Sortings\Source.cpp(2232,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Coding\Tests\Sortings\Sortings\Source.cpp(2233,18): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\Coding\Tests\Sortings\Sortings\Source.cpp(2240,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Coding\Tests\Sortings\Sortings\Source.cpp(2241,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Coding\Tests\Sortings\Sortings\Source.cpp(2242,22): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\Coding\Tests\Sortings\Sortings\Source.cpp(2383,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sortings.vcxproj -> D:\Coding\Tests\Sortings\x64\Debug\Sortings.exe
